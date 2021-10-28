@@ -1,0 +1,63 @@
+h1 {color:blue; 
+    font-size: 80px;
+    text-align: center;
+}
+
+p {color: chocolate;
+font-size: 0.5cm;
+text-align: center;
+}
+
+li {
+color: chocolate;
+}
+
+img{
+display: block;
+margin:0 auto;
+}
+
+h2 {color:blue; 
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+  }
+
+body{
+    background-color:darkkhaki;
+}
+
+table{
+    color: darkmagenta;
+    border: 2px solid black;
+    
+}
+tr:hover {background-color: yellow;}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+
+  .left {
+    left: 0;
+  }
+  
+  .right {
+    right: 0;
+  }
+
+
+</style>
